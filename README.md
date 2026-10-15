@@ -24,23 +24,9 @@ const dewkiad = {
     infra    : ["Docker", "VPS", "Cloudflare", "n8n"],
     ai       : ["Claude Code", "LLM agents", "RAG"],
   },
-  currently: "AI Quant Trading · OpenClaw Bot · Kiss Me Ranking",
   motto    : "ship fast, iterate faster, automate the rest",
 };
 ```
-
----
-
-### 🚀 Currently building
-
-| Project | What it does |
-|---|---|
-| 🎤 **Kiss Me Ranking** | Real-time karaoke ranking web app (Next.js + VPS) |
-| 🤖 **OpenClaw Bot** | Crypto trading bot — binance.th + Lightning channels |
-| 📊 **AI Quant Trading** | RSI / DCA / OCO strategies with Obsidian journaling + Telegram alerts |
-| 🏪 **KissMe Inventory POS** | Point-of-sale + inventory for small retail |
-| 💉 **Vaccine Queue** | Appointment booking + queue management |
-| ⭐ **StarX** | Admin dashboard + AI content pipeline |
 
 ---
 
