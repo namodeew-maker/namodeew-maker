@@ -71,25 +71,20 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=namodeew-maker&hide_border=false&background=241b2f&stroke=fede5d&ring=ff7edb&fire=ff7edb&currStreakLabel=ff7edb&sideLabels=36f9f6&dates=f0eff1&currStreakNum=36f9f6&sideNums=36f9f6" />
 </p>
 
-<!-- 2. Activity timeline — full width line chart -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namodeew-maker&bg_color=241b2f&color=ff7edb&line=36f9f6&point=fede5d&area_color=ff7edb&area=true&hide_border=true&custom_title=%E2%96%B6%20contribution%20timeline" />
-</p>
-
-<!-- 3. Language + productive time side-by-side -->
+<!-- 2. Language + productive time side-by-side -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namodeew-maker&layout=compact&hide_border=false&bg_color=241b2f&title_color=ff7edb&text_color=f0eff1&border_color=fede5d&langs_count=10" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namodeew-maker&theme=radical&utcOffset=7" />
 </p>
 
-<!-- 4. Profile summary — centered, narrower -->
+<!-- 3. Profile summary — centered, narrower -->
 <p align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namodeew-maker&theme=radical" />
 </p>
 
-<!-- 5. Trophies — grand finale, full width -->
+<!-- 4. Trophies — grand finale, full width (mirror domain: github-profile-trophy was 402) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namodeew-maker&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-trophies.vercel.app/?username=namodeew-maker&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
